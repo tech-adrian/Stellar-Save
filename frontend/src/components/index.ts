@@ -17,3 +17,5 @@ export type { Tab } from "./Tabs";
 export { GroupCard } from "./GroupCard";
 export { CreateGroupForm } from "./CreateGroupForm";
 export { GroupStats } from "./GroupStats";
+export { MemberList } from "./MemberList";
+export type { Member } from "./MemberList";
